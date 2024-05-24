@@ -53,3 +53,16 @@
 body{
     background-color: black;
 }
+
+.voltar-menu{
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #ff0000;
+    color: #1f1d1d;
+    border-color:#fff;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}

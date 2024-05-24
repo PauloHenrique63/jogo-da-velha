@@ -59,3 +59,8 @@ function updateBoard() {
 
 updateBoard();
 
+const botaoRetornar = document.querySelector(".voltar-menu");
+botaoRetornar.addEventListener("click",function(){
+    window.open("login.html", "_self");
+});
+
